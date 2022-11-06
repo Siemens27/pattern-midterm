@@ -1,6 +1,3 @@
-## Banking System Management
-This application handles some of the basics operations of a bank, such as customer's deposit and withdraw, money transferences, and fixed income calculations (Interest Rate or Bonds calculations). Still in development, feel free to contribute!
-
 ### Getting Started
 #### Step 1: Clone this Repository
 `git clone https://github.com/siemens27/BankApplication` 
